@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KUMAR-AKASH-ER
+- 👋 Hi, I’m @KUMAR-AKASH-M
 - 👀 I’m interested in Full stack projects
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate with amazing projects
