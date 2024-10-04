@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack projects
 - 🌱 I’m currently learning DSA and Web Development
 - 💞️ I’m looking to collaborate with amazing projects
-- 📫 How to reach me:
+- 📫 How to reach me: <br>
   Linkedln: www.linkedin.com/in/kumar-akash-er10 <br>
   Email- kumaraakash.mishra@gmail.com
 - ⚡ Fun fact: I watch Anime
