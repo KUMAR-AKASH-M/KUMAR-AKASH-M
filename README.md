@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Akash</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akash-m&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-akash-m" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akash-m&label=VIEWS&color=brightgreen&style=plastic" alt="kumar-akash-m" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-akash-m&column=8&theme=matrix&no-bg=true&&no-frame=true" alt="kumar-akash-m" /></a> </p>
 
