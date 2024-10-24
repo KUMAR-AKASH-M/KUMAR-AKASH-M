@@ -54,7 +54,10 @@
 <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-akash-m&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a>
 
-
+### 📈 Contribution Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-akash-m&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 <!---
 KUMAR-AKASH-M/KUMAR-AKASH-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
