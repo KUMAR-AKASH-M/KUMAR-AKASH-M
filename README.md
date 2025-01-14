@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kumar Akash</h1>
+
+<div style="display: flex; justify-content: center; ">
+<img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" />
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kumar+Akash!" alt="HELLO SECTION">
+</p>
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akash-m&label=VIEWS&color=brightgreen&style=plastic" alt="kumar-akash-m" /> </p>
