@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akash-m&label=VIEWS&color=brightgreen&style=plastic" alt="kumar-akash-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-akash-m&column=8&theme=radical&no-bg=true&&no-frame=true" alt="kumar-akash-m" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-akash-m&column=8&theme=radical&no-bg=true&&no-frame=true" alt="kumar-akash-m" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <img align="right" height="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png"  />
 
@@ -54,11 +54,11 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/KUMAR-AKASH-M">
+<!-- <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-akash-m&theme=github_dark&hide_border=true" alt="kumar-akash-m" ></a>
 <br/>
 <a href="https://github.com/KUMAR-AKASH-M">
-<img src="https://github-readme-stats.vercel.app/api?username=kumar-akash-m&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a>
+<img src="https://github-readme-stats.vercel.app/api?username=kumar-akash-m&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a> -->
 
 <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-akash-m&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a>
