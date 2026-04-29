@@ -25,10 +25,13 @@
 - ⚡ Fun fact **I watch Anime**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kumar-akash01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-akash01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/KumarAkash84096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="kumar-akash01" height="30" width="40" /></a>
-  
+<p align="left" style="display:flex">
+<a href="https://linkedin.com/in/kumar-akash01" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-akash01" height="30" width="40" />
+</a>
+<a href="https://x.com/in/KumarAkash84096" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="kumar-akash01" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
