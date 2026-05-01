@@ -38,9 +38,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,express,java,mongodb" />
- <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,nodejs,react,redux,tailwind,nextjs,npm,git" />
- <img src="https://skillicons.dev/icons?i=yarn,postman,kotlin" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,express,java" />
+ <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,nodejs,react,redux,tailwind,nextjs" />
+ <img src="https://skillicons.dev/icons?i=npm,git,yarn,postman,kotlin" />
 </p>
 
 <a href="https://github.com/KUMAR-AKASH-M">
