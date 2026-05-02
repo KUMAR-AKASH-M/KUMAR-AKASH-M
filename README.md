@@ -45,7 +45,7 @@
 </p>
 
 <a href="https://github.com/KUMAR-AKASH-M">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-akash-m&theme=github_dark&hide_border=true" alt="kumar-akash-m" ></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-akash-m&layout=compact&theme=github_dark&hide_border=true" alt="kumar-akash-m" ></a>
 <!-- <br/> -->
 <!-- <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-stats.vercel.app/api?username=kumar-akash-m&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a> -->
