@@ -46,12 +46,17 @@
 
 <!-- <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-akash-m&theme=github_dark&hide_border=true" alt="kumar-akash-m" ></a> -->
+
+
 <!-- <br/> -->
 <!-- <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-stats.vercel.app/api?username=kumar-akash-m&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a> -->
 
 <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-akash-m&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a>
+&ensp; &emsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/KUMAR-AKASH-M">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact&theme=transparent&hide_border=true" alt="kumar-akash-m" ></a>
 
 <!-- <img src="https://gitlyy.vercel.app/api/contribution?username=kumar-akash-m&hide_border=true"/> -->
 <!-- <img src="https://stats.pphat.top/graph?username=kumar-akash-m&animate=wave&theme=matrix"/> -->
@@ -65,3 +70,4 @@
 KUMAR-AKASH-M/KUMAR-AKASH-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
