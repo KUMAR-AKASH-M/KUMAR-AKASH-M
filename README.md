@@ -10,7 +10,11 @@
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akash-m&label=VIEWS&color=brightgreen&style=plastic" alt="kumar-akash-m" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akash-m&label=VIEWS&color=brightgreen&style=plastic" alt="kumar-akash-m" /> </p> -->
+
+<p align="left"> 
+  <img src="https://stats.pphat.top/badges?username=kumar-akash-m&name=visitors,total-stars,repositories,total-issues,followers,total-pull-requests&column=6&theme=galaxy,aurora,ocean,neon&effect=wave&size=large&p=15" alt="kumar-akash-m" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-akash-m&column=8&theme=radical&no-bg=true&&no-frame=true" alt="kumar-akash-m" /></a> </p>
 
