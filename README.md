@@ -66,10 +66,10 @@
 <!-- <img src="https://gitlyy.vercel.app/api/contribution?username=kumar-akash-m&hide_border=true"/> -->
 <!-- <img src="https://stats.pphat.top/graph?username=kumar-akash-m&animate=wave&theme=matrix"/> -->
 
-### 📈 Contribution Graph:
+<!--### 📈 Contribution Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-akash-m&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div>-->
 
 <!---
 KUMAR-AKASH-M/KUMAR-AKASH-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
