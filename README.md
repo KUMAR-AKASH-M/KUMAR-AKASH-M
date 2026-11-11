@@ -71,6 +71,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-akash-m&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>-->
 
+<h3 align="left">Open Source:</h3>
+
+- 🔭 Contributing to [JupyterLab](https://github.com/jupyterlab/jupyterlab) — 3 PRs merged, 3 open
+- 📝 Lessons from every contribution: [OpenSourceContributionDocs](https://github.com/KUMAR-AKASH-M/OpenSourceContributionDocs)
+
 <!---
 KUMAR-AKASH-M/KUMAR-AKASH-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
