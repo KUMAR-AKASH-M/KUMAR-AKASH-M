@@ -25,7 +25,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <!-- <img align="right" height="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png"  /> -->
-<img align="right" height="1500" src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif"  />
+<img align="right" height="400" src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif"  />
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
@@ -58,9 +58,9 @@
 
 
 <!-- <br/> -->
- <a href="https://github.com/KUMAR-AKASH-M">
+<!-- <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-stats.vercel.app/api?username=kumar-akash-m&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a>
-<br/>
+<br/> -->
 <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kumar-akash-m&layout=donut&theme=transparent&hide_border=true" alt="kumar-akash-m" ></a>
 &ensp; &emsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
