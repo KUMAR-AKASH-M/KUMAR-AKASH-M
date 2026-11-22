@@ -12,11 +12,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akash-m&label=VIEWS&color=brightgreen&style=plastic" alt="kumar-akash-m" /> </p> -->
 
-<!-- Dead service (stats.pphat.top is down), commented out
+
 <p align="left"> 
   <img src="https://stats.pphat.top/badges?username=kumar-akash-m&name=visitors,total-stars,repositories,total-issues,followers,total-pull-requests&column=6&theme=galaxy,aurora,ocean,neon&effect=wave&size=large&p=15" alt="kumar-akash-m" />
 </p>
--->
+
 
 <!-- Dead service (github-profile-trophy deployment paused), commented out
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-akash-m&column=8&theme=radical&no-bg=true&&no-frame=true" alt="kumar-akash-m" /></a> </p>
@@ -58,9 +58,9 @@
 
 
 <!-- <br/> -->
-<!-- <a href="https://github.com/KUMAR-AKASH-M">
-<img src="https://github-readme-stats.vercel.app/api?username=kumar-akash-m&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a> -->
-
+ <a href="https://github.com/KUMAR-AKASH-M">
+<img src="https://github-readme-stats.vercel.app/api?username=kumar-akash-m&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a>
+<br/>
 <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kumar-akash-m&layout=donut&theme=transparent&hide_border=true" alt="kumar-akash-m" ></a>
 &ensp; &emsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,10 +70,10 @@
 <!-- <img src="https://gitlyy.vercel.app/api/contribution?username=kumar-akash-m&hide_border=true"/> -->
 <!-- <img src="https://stats.pphat.top/graph?username=kumar-akash-m&animate=wave&theme=matrix"/> -->
 
-<!--### 📈 Contribution Graph:
+### 📈 Contribution Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-akash-m&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>-->
+</div>
 
 <h3 align="left">Open Source:</h3>
 
