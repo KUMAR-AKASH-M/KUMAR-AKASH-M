@@ -25,7 +25,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <!-- <img align="right" height="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png"  /> -->
-<img align="right" height="400" src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif"  />
+<img align="right" height="600" src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif"  />
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
@@ -67,7 +67,7 @@
 <a href="https://github.com/KUMAR-AKASH-M">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-akash-m&theme=github_dark&hide_border=true" alt="kumar-akash-m" width="48%" ></a>
 
-<!-- <img src="https://gitlyy.vercel.app/api/contribution?username=kumar-akash-m&hide_border=true"/> -->
+ <img src="https://gitlyy.vercel.app/api/contribution?username=kumar-akash-m&hide_border=true"/>
 <!-- <img src="https://stats.pphat.top/graph?username=kumar-akash-m&animate=wave&theme=matrix"/> -->
 
 ### 📈 Contribution Graph:
